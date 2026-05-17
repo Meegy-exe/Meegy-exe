@@ -1,21 +1,29 @@
-<div align="center">
-  <img src="./assets/pp-github.png" width="100%" alt="Photo de présentation GitHub"/>
-</div>
-
-# Hello ! Je te souhaite une bonne visite sur mon GitHub :)
-
-### Bref présentation :
-Etudiant à la **Web@cadémie d'Epitech à Lille**, je me spécialise pour devenir **Développeuse Web**.
-
-Sur mon temps libre j'aime créer des interfaces webs principalement avec **React**, **JavaScript** et **Tailwind CSS**.
-J'apporte toujours une attention particulière aux petits détails qui transforme un projet en un site réussi. 
-<sub>J'aime peut être y cacher des Easters Egg)</sub>
-
-Je suis particulièrement attirée par le **front-end, UX et UI**, mais je sais aussi travailler sur des projets **FullStack**.
-Passionnée de jeux vidéox, j’aimerais développer mon propre jeu, en mêlant interface, game design et systèmes de progression.
-
-**À la recherche d’une alternance de 14 mois à partir de septembre**  
-**Métropole lilloise / bassin minier**
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h1>Hello ! Je te souhaite une bonne visite sur mon GitHub :)</h1>
+      <p>
+        Etudiant à la <b>Web@cadémie d'Epitech à Lille</b>, je me spécialise pour devenir <b>Développeuse Web</b>.
+      </p>
+      <p>
+        Sur mon temps libre j'aime créer des interfaces webs principalement avec <b>React</b>, <b>JavaScript</b> et <b>Tailwind CSS</b>.<br>
+        J'apporte toujours une attention particulière aux petits détails qui transforme un projet en un site réussi. <br>
+        <sub>J'aime peut être y cacher des Easters Egg)</sub>
+      </p>
+      <p>
+        Je suis particulièrement attirée par le <b>front-end, UX et UI</b>, mais je sais aussi travailler sur des projets <b>FullStack</b>.<br>
+        Passionnée de jeux vidéox, j’aimerais développer mon propre jeu, en mêlant interface, game design et systèmes de progression.
+      </p>
+      <p>
+        <b>À la recherche d’une alternance de 14 mois à partir de septembre</b><br>
+        <b>Métropole lilloise / bassin minier</b>
+      </p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="./assets/pp-github.png" width="100%" alt="Photo de présentation GitHub"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,4 +74,4 @@ En ce moment, je travaille sur :
 ## Me contacter
 
 **LinkedIn** : [linkedin.com/in/alison-dehaies](lien)  
-**Portfolio** : [https://meegy-exe.github.io/Portfolio/]
+**Portfolio** : [https://meegy-exe.github.io/Portfolio/](lien)
